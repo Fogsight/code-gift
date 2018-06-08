@@ -32,7 +32,7 @@ No you don't _have_ to, but we're sure that the original author would appreciate
 
 See the [CONTRIBUTING.md][Contributing Document] file.
 
-### Can I request that a snippet be created?
+### Can I request that a code snippet/asset be created?
 
 Yes. Either create an issue or head over to our [Discord server][Discord Server Link].
 
